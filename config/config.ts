@@ -39,4 +39,8 @@ export default defineConfig({
   },
   //快速刷新
   fastRefresh: {},
+  //关闭mock
+  // mock: false,
+  //开启dva
+  dva: {},
 });
